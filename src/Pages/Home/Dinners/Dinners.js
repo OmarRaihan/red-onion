@@ -19,7 +19,7 @@ const Dinners = () => {
         <CustomLink to="/dinners">Dinner</CustomLink>
       </div>
       <div>
-        <div  className="dinner-container my-5">
+        <div  className="container dinner-container my-5">
         {dinners.map((dinner) => (
           <Dinner 
           key={dinner.id} 

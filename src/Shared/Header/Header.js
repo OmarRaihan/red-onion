@@ -13,16 +13,11 @@ const Header = () => {
               <img width="130px" src={logo} alt="" />
           </Navbar.Brand>
           <Nav className="ms-auto fw-bold">
-            <Nav.Link as={Link} to="/home">Home</Nav.Link>
             <Nav.Link as={Link} to="/cart">Cart</Nav.Link>
             <Nav.Link as={Link} to="/login">Login</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
-      <div>
-          <img className="img-fluid" src={bg} alt="" />
-          
-      </div>
     </>
   );
 };
