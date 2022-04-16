@@ -1,0 +1,22 @@
+
+.lunch-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+}
+
+@media screen and (max-width: 576px) {
+    
+    .lunch-container{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media screen and (max-width: 992px) {
+    
+    .lunch-container{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

@@ -1,0 +1,9 @@
+
+.card-container{
+    display: grid;
+    grid-gap: 10px;
+}
+
+.card{
+    padding: 20px;
+}

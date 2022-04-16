@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Baked Chicken",
+        "price": "9.99",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "img":"https://i.ibb.co/mtfhmSC/dinner1.png"
+    },
+    {
+        "id": 2,
+        "name": "Lemony Salmon Piccata",
+        "price": "10.99",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "img":"https://i.ibb.co/xfdn7s1/dinner2.png"
+    },
+    {
+        "id": 3,
+        "name": "Garlic Butter Salmon",
+        "price": "6.99",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "img":"https://i.ibb.co/MsdMQC1/dinner3.png"
+    },
+    {
+        "id": 4,
+        "name": "French Fries with Cheese",
+        "price": "8.99",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "img":"https://i.ibb.co/dQXc49j/dinner4.png"
+    },
+    {
+        "id": 5,
+        "name": "Pork Tenderloin",
+        "price": "12.99",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "img":"https://i.ibb.co/Ry5kbxc/dinner5.png"
+    },
+    {
+        "id": 6,
+        "name": "Salmon with Lentil Salad",
+        "price": "9.99",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "img":"https://i.ibb.co/YTnSSkH/dinner6.png"
+    }
+]
